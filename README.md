@@ -1,4 +1,4 @@
-# Dero (DERO) Wallet Generator
+# AmityCoin (AmityCoin) Wallet Generator
 
 ## Credits
 - TurtleCoin
